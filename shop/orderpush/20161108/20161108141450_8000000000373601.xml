@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9ICD41-26RRH9ICD41-0EK44W07HUJ" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9ICD41-26RRH9ICD41-0EK44W07HUJ</guid>
+			<appType>1</appType>
+			<appTime>20161108141450</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000373601</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>61.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>68.85</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>幸运草～～</buyerRegNo>
+			<buyerName>刘芳</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410224199201205125</buyerIdNumber>
+			<consignee>刘芳</consignee>
+			<consigneeTelephone>15136475232</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	管城回族区 黄河南路商都路华丰灯世界财信圣堤亚纳</consigneeAddress>
+			<note></note>
+			<ordersum>68.85</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20161104103921</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.55</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.25</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016110421001004880276531973</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>刘芳</purchasername>
+			<buyerregno>幸运草～～</buyerregno>
+			<purchasertelephone>15136475232</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>8150005003125</itemNo>
+			<itemName>【郑欧美妆节-新品推荐】innisfree悦诗风吟大自然精华蓝莓面膜（跨境直邮） 10片/盒（20ml/片）</itemName>
+			<itemDescribe>具有超强的抗氧化功效的蓝莓成分，从外界的刺激中保护肌肤，强化肌肤的健康，使肌肤变的更白更亮。</itemDescribe>
+			<barCode></barCode>
+			<unit></unit>
+			<qty>1</qty>
+			<price>66.00</price>
+			<totalPrice>66</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications></specifications>
+			<ciqbarcode>3304990013</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp></goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp></unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

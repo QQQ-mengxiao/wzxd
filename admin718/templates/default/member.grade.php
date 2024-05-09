@@ -1,0 +1,126 @@
+<?php defined('In718Shop') or exit('Access Invalid!');?>
+
+<div class="page">
+  <div class="fixed-bar">
+    <div class="item-title">
+      <h3>会员级别</h3>
+      <ul class="tab-base">
+        <li><a href="JavaScript:void(0);" class="current"><span>级别管理</span></a></li>
+        <li><a href="index.php?act=member_grade&op=gui_add" ><span>积分规则设置</span></a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="fixed-empty"></div>
+  <table class="table tb-type2" id="prompt">
+    <tbody>
+      <tr class="space odd">
+        <th colspan="12"><div class="title"><h5><?php echo $lang['nc_prompts'];?></h5><span class="arrow"></span></div></th>
+      </tr>
+      <tr>
+        <td>
+        <ul>
+        	<li class="tips">“会员级别设置”提交后，当会员符合某个级别后将自动升至该级别，请谨慎设置会员级别</li>
+            <li class="tips">建议：一、级别应该是逐层递增，例如“级别2”所需经验值高于“级别1”；二、设置的第一个级别所需经验值应为0；三、信息应填写完整；四:赠送积分与消费额倍数，设置为10，表明消费1单位货币赠送10积分</li>
+          </ul></td>
+      </tr>
+    </tbody>
+  </table>
+  <form method="post" id="mg_form" name="mg_form" enctype="multipart/form-data">
+    <input type="hidden" name="form_submit" value="ok" />          
+    <table class="table tb-type2">
+        <thead>
+          <tr class="thead">
+            <th colspan="5">会员级别设置：</th>
+          </tr>
+          <tr class="thead">
+            <th colspan="5"></th>
+          </tr>
+          <tr class="thead">
+            <th class="align-center">级别</th>
+            <th class="align-left">经验值</th>
+			  <th class="align-left">折扣率</th>
+        <th class="align-left">赠送积分与消费额倍数</th>
+          </tr>
+        </thead>
+        <tbody id="mg_tbody">
+            <tr id="row_0">
+<!--        		<td class="w108 align-center">V0</td>-->
+        		<td class="w108 align-center"><input type="text" name="mg[0][level_name]" value="<?php echo $output['list_setting']['member_grade'][0]['level_name'];?>" class="w60"/></td>
+        		<td class="align-left"><input type="text" name="mg[0][exppoints]" value="<?php echo $output['list_setting']['member_grade'][0]['exppoints'];?>" class="w60" readonly/></td>
+				<td class="align-left"><input type="text" name="mg[0][discount]" value="<?php echo $output['list_setting']['member_grade'][0]['discount'];?>" class="w60"/>%</td>
+          <td class="align-left"><input type="text" name="mg[0][points_grade]" value="<?php echo $output['list_setting']['member_grade'][0]['points_grade'];?>" class="w60" nc_type="verify" data-param='{"name":"赠送积分与消费额倍数","type":"float"}'/></td>
+        	</tr>
+        	<tr id="row_1">
+<!--        		<td class="w108 align-center">V1</td>-->
+        		<td class="w108 align-center"><input type="text" name="mg[1][level_name]" value="<?php echo $output['list_setting']['member_grade'][1]['level_name'];?>" class="w60"/></td>
+        		<td class="align-left"><input type="text" name="mg[1][exppoints]" value="<?php echo $output['list_setting']['member_grade'][1]['exppoints'];?>" class="w60" nc_type="verify" data-param='{"name":"经验值","type":"int"}'/></td>
+				<td class="align-left"><input type="text" name="mg[1][discount]" value="<?php echo $output['list_setting']['member_grade'][1]['discount'];?>" class="w60" nc_type="verify" data-param='{"name":"折扣率","type":"float"}'/>%</td>
+          <td class="align-left"><input type="text" name="mg[1][points_grade]" value="<?php echo $output['list_setting']['member_grade'][1]['points_grade'];?>" class="w60" nc_type="verify" data-param='{"name":"赠送积分与消费额倍数","type":"float"}'/></td>
+        	</tr>
+        	<tr id="row_2">
+<!--        		<td class="w108 align-center">V2</td>-->
+        		<td class="w108 align-center"><input type="text" name="mg[2][level_name]" value="<?php echo $output['list_setting']['member_grade'][2]['level_name'];?>" class="w60"/></td>
+        		<td class="align-left"><input type="text" name="mg[2][exppoints]" value="<?php echo $output['list_setting']['member_grade'][2]['exppoints'];?>" class="w60" nc_type="verify" data-param='{"name":"经验值","type":"int"}'/></td>
+				<td class="align-left"><input type="text" name="mg[2][discount]" value="<?php echo $output['list_setting']['member_grade'][2]['discount'];?>" class="w60" nc_type="verify" data-param='{"name":"折扣率","type":"float"}'/>%</td>
+          <td class="align-left"><input type="text" name="mg[2][points_grade]" value="<?php echo $output['list_setting']['member_grade'][2]['points_grade'];?>" class="w60" nc_type="verify" data-param='{"name":"赠送积分与消费额倍数","type":"float"}'/></td>
+        	</tr>
+        	<tr id="row_3">
+<!--        		<td class="w108 align-center">V3</td>-->
+        		<td class="w108 align-center"><input type="text" name="mg[3][level_name]" value="<?php echo $output['list_setting']['member_grade'][3]['level_name'];?>" class="w60"/></td>
+        		<td class="align-left"><input type="text" name="mg[3][exppoints]" value="<?php echo $output['list_setting']['member_grade'][3]['exppoints'];?>" class="w60" nc_type="verify" data-param='{"name":"经验值","type":"int"}'/></td>
+				<td class="align-left"><input type="text" name="mg[3][discount]" value="<?php echo $output['list_setting']['member_grade'][3]['discount'];?>" class="w60" nc_type="verify" data-param='{"name":"折扣率","type":"float"}'/>%</td>
+        <td class="align-left"><input type="text" name="mg[3][points_grade]" value="<?php echo $output['list_setting']['member_grade'][3]['points_grade'];?>" class="w60" nc_type="verify" data-param='{"name":"赠送积分与消费额倍数","type":"float"}'/></td>
+        	</tr>
+        </tbody>
+        <tfoot>
+        	<tr>
+        		<td colspan="4"><a href="JavaScript:void(0);" class="btn" id="submitBtn"><span><?php echo $lang['nc_submit'];?></span></a></td>
+        	</tr>
+        </tfoot>
+ 	</table>
+</form>
+</div>
+<script type="text/javascript" src="<?php echo RESOURCE_SITE_URL;?>/js/dialog/dialog.js" id="dialog_js" charset="utf-8"></script>
+<script type="text/javascript">
+$(function(){
+	$('#submitBtn').click(function(){
+		var result = true;
+		var error = new Array();
+		$("#mg_tbody").find("[nc_type='verify']").each(function(){
+			if(result){
+				data = $(this).val();
+				if(!data){
+					result = false;
+					//error.push('请将信息填写完整');
+					error = '请将信息填写完整';
+				}
+				//验证类型
+				if(result){
+					var data_str = $(this).attr('data-param');
+				    if(data_str){
+				    	eval( "data_str = "+data_str);
+						var re = /^[1-9]+[0-9]*]*$/;
+				    	switch(data_str.type){
+				    	   case 'int':
+				    		   result = (re.test(data))?true:false;
+				    		   error = (result == false)?(data_str.name + '应为正整数'):'';
+								break;
+							case 'float':
+								result = (data > 0&& data <=100 )?true:false;
+								error = (result == false)?(data_str.name + '范围应在0~100之间'):''; //折扣如何显示
+								break;
+							default:
+								break;
+				    	}
+				    }
+				}				
+			}
+		});
+		if(result){
+			$('#mg_form').submit();
+		} else {
+			showDialog(error);
+		}
+    });
+})
+</script>

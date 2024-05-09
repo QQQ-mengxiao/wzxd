@@ -1,0 +1,86 @@
+array(3) {
+  ["form_submit"]=>
+  string(2) "ok"
+  ["buy_deliver_id"]=>
+  string(1) "2"
+  ["goods"]=>
+  array(7) {
+    [29191]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29191"
+      ["goods_price"]=>
+      string(5) "15.50"
+      ["goods_name"]=>
+      string(33) "方鑫餐馆-卤肉饭米饭 1份"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+    [29192]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29192"
+      ["goods_price"]=>
+      string(4) "8.50"
+      ["goods_name"]=>
+      string(33) "方鑫餐馆-热干面面条 1份"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+    [29193]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29193"
+      ["goods_price"]=>
+      string(4) "2.00"
+      ["goods_name"]=>
+      string(43) "方鑫餐馆-配菜小食系列 茶叶蛋*1"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+    [29194]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29194"
+      ["goods_price"]=>
+      string(4) "3.50"
+      ["goods_name"]=>
+      string(49) "方鑫餐馆-配菜小食系列 胡椒肠烤肠*1"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+    [29195]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29195"
+      ["goods_price"]=>
+      string(4) "2.50"
+      ["goods_name"]=>
+      string(46) "方鑫餐馆-配菜小食系列 红肠烤肠*1"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+    [29196]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29196"
+      ["goods_price"]=>
+      string(5) "12.50"
+      ["goods_name"]=>
+      string(35) "方鑫餐馆-捞面条系列 荤卤"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+    [29197]=>
+    array(4) {
+      ["goods_id"]=>
+      string(5) "29197"
+      ["goods_price"]=>
+      string(5) "12.50"
+      ["goods_name"]=>
+      string(35) "方鑫餐馆-捞面条系列 素卤"
+      ["goods_sort"]=>
+      string(4) "9999"
+    }
+  }
+}

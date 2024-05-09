@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I5QU9-2W2RN31GBL56-0EGJB17YWXP" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9I5QU9-2W2RN31GBL56-0EGJB17YWXP</guid>
+			<appType>1</appType>
+			<appTime>20160714175449</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000064801</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>88.40</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>88.40</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>pengtaoguo</buyerRegNo>
+			<buyerName>米旭</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>412929197906018218</buyerIdNumber>
+			<consignee>米旭</consignee>
+			<consigneeTelephone>18003852759</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	二七区 郑州市二七区淮河东路38号万山府院3-2-19 米昌收 138</consigneeAddress>
+			<note></note>
+			<ordersum>88.40</ordersum>
+			<senderusername>BIAN COMPANY</senderusername>
+			<senderuseraddress>No.408,3-4,Heungin-dong,Jung-gu,Seoul,Korea</senderuseraddress>
+			<senderusertelephone>00821053098688</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20160711182401</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.639</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.35</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016071121001004540260470137</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>米旭</purchasername>
+			<buyerregno>pengtaoguo</buyerregno>
+			<purchasertelephone>18003852759</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500401</itemNo>
+			<itemName>（郑欧商城跨境直邮）韩国正品  SNP燕窝海洋补水面膜 深层补水提拉紧致 10片/盒（25ml/片）</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>140</unit>
+			<qty>1</qty>
+			<price>79.00</price>
+			<totalPrice>79</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>10片/盒（25ml/片）</specifications>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500401</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>140</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

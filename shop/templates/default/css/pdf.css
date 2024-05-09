@@ -1,0 +1,22 @@
+*{
+    font-family: SimHei;
+    font-weight: bold;
+}
+table{
+    /*table-layout: fixed;*/
+    width: 110mm;
+    height: 220mm;
+    border:1px dashed black;
+}
+table tr td{
+    border-bottom: 1px solid black;
+}
+.row7 td{
+    border-right: 1px solid black;
+}
+#code{
+    border-right: 1px dashed black;
+}
+.row12 td{
+    border-bottom:1px dashed black;
+}

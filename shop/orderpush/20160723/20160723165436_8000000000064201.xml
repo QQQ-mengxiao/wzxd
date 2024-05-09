@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I5QDL-58V5GR11CGNK-0EGT6LJO1RB" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9I5QDL-58V5GR11CGNK-0EGT6LJO1RB</guid>
+			<appType>1</appType>
+			<appTime>20160723165436</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000064201</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>85.04</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>85.04</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>lanzhu2222</buyerRegNo>
+			<buyerName>张鑫</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410122198309285216</buyerIdNumber>
+			<consignee>张鑫</consignee>
+			<consigneeTelephone>13938552305</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	管城回族区 河南郑州经开区第18大街与经北四路交叉口东北角陆港园区</consigneeAddress>
+			<note></note>
+			<ordersum>85.04</ordersum>
+			<senderusername>BIAN COMPANY</senderusername>
+			<senderuseraddress>No.408,3-4,Heungin-dong,Jung-gu,Seoul,Korea</senderuseraddress>
+			<senderusertelephone>00821053098688</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20160711144640</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.389</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.1</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016071121001004020278170100</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>张鑫</purchasername>
+			<buyerregno>lanzhu2222</buyerregno>
+			<purchasertelephone>13938552305</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500702</itemNo>
+			<itemName>（郑欧商城跨境直邮）韩国正品 Cloud 9/九朵云祛斑霜面霜 美白淡斑 50ml/瓶</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>142</unit>
+			<qty>1</qty>
+			<price>76.00</price>
+			<totalPrice>76</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>50ml/瓶</specifications>
+			<ciqbarcode>3304990010</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500702</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>142</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>
