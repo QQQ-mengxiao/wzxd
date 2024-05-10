@@ -1,0 +1,22 @@
+/*
+ *下载手机APP页面
+ */
+*{ margin:0; padding: 0;}
+.model{background-color:#FFBDB4;/*background: url('http://p0.jmstatic.com/mcms/yj20150122_model1_bg1.jpg')no-repeat center top ;*/ height: 600px; overflow: hidden;font-family: Tahoma,Geneva,sans-serif;z-index:1;}
+.model .width_1024{ height: 210px; overflow: visible;width: 1024px; margin: 0 auto; position: relative;}
+.model .phone_image{ position: absolute; left:30px; top: 80px;}
+.model .phone_image img{ width:430px;height:500px;}
+.model .model_p1{  position: absolute; left: 470px; top: 130px;  text-align: right;}
+.model .model_p1 h3{ font-size: 36px; color: #000; line-height: 90px;}
+.model .model_p1 p{ font-size: 23px; color:#ed3571; line-height: 30px;  }
+.model .code{  position: absolute; right: 10px;top: 160px;}
+.model .code img{  width:110px;height:110px;}
+.model .down_app{ position: absolute; right: 10px; top: 300px; overflow: hidden;zoom:1;}
+.model .down_app a{ display: inline-block; text-decoration: none; line-height: 46px;color: #fff;  text-align: left; font-size: 17px; float: left; margin-left: 15px;}
+.model .down_app a:hover{ color: #ccc;}
+.model .down_app1{ background: 150px 20px #000;  width: 160px;}
+.model .down_app2{ background: 160px 20px #000;  width: 160px;}
+.model .app_icon{position: absolute; left:630px; top: 430px;}
+.model .app_icon img{width:100px;height:100px;}
+.model .more{position: absolute; right:10px; top: 460px;}
+.model .more font{font-size:20px;}

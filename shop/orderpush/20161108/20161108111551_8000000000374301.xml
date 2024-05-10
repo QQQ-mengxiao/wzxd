@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9ICDNH-26RRH9ICDNH-0EK3ZYE7SV5" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9ICDNH-26RRH9ICDNH-0EK3ZYE7SV5</guid>
+			<appType>1</appType>
+			<appTime>20161108111551</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000374301</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>74.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>83.40</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>shiws@zih718.com</buyerRegNo>
+			<buyerName>石文松</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410823197106098330</buyerIdNumber>
+			<consignee>石文松</consignee>
+			<consigneeTelephone>18937153329</consigneeTelephone>
+			<consigneeAddress>河南省	郑州市	郑州市经开区经北四路146号国际陆港园区 国际陆港园区</consigneeAddress>
+			<note></note>
+			<ordersum>83.40</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20161104142752</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.15</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.15</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016110421001004340229884744</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>石文松</purchasername>
+			<buyerregno>shiws@zih718.com</buyerregno>
+			<purchasertelephone>18937153329</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500103</itemNo>
+			<itemName>【多买多减】It's Skin伊思晶钻蜗牛洗面奶（跨境直邮） 150ml/支</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>012</unit>
+			<qty>1</qty>
+			<price>79.00</price>
+			<totalPrice>79</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>150ml/支</specifications>
+			<ciqbarcode>3401300000</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500103</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>012</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

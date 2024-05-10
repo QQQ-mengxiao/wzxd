@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I5QLX-7DG56JOOLA6M-0EGXP5YTFC6" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9I5QLX-7DG56JOOLA6M-0EGXP5YTFC6</guid>
+			<appType>1</appType>
+			<appTime>20160727191229</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>970521564509261518</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>130.83</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>130.83</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>affam@163.com</buyerRegNo>
+			<buyerName>范爱民</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410502197106013538</buyerIdNumber>
+			<consignee>范爱民</consignee>
+			<consigneeTelephone>13526719359</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	管城回族区 郑州经济技术开发区经北四路与十八大街交叉口郑州国际陆港园区</consigneeAddress>
+			<note></note>
+			<ordersum>130.83</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20160711150149</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.379</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.09</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016071121001004570272796923</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>范爱民</purchasername>
+			<buyerregno>affam@163.com</buyerregno>
+			<purchasertelephone>13526719359</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500356</itemNo>
+			<itemName>（郑欧商城跨境直邮）innisfree悦诗风吟济州岛火山泥黑头导出膏（3盒） 3盒/组（30g/盒）</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>142</unit>
+			<qty>1</qty>
+			<price>89.00</price>
+			<totalPrice>89</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>3盒/组（30g/盒）</specifications>
+			<ciqbarcode>3304990099</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500356</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>142</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

@@ -1,0 +1,333 @@
+/* ===== minilogin ===== */
+.mini_loginpanel{
+	width:375px;
+	position:absolute;
+	right:500px;
+	top:150px;
+	border:1px solid #D8D8D8;
+	box-shadow:0 0 5px #000;
+	font-family: "microsoft yahei",SimHei,Arial;
+}
+.mini_loginpanel .closebox{position:absolute;right:-16px;top:-17px;width:33px;height:34px;display:block;background:url(../Nest/img/closebox.png) no-repeat ;overflow:hidden;text-indent:-9999px;}
+.mini_loginpanel  h1{
+	height:45px;
+	padding:0;
+	line-height:45px;
+	font-size:20px;
+	font-weight:normal;
+	/*color:#fff;
+	text-indent:35px;
+	background:url(../Nest/img/logtit.gif) repeat-x;*/
+	color:#666;
+	margin:10px 27px;
+	border-bottom:2px solid #C40000;
+}
+.mini_loginpanel .inner{
+	border:1px solid #fff;
+	border-top:none;
+	background-color:#fff;
+	padding:1px;
+}
+.mini_loginpanel .formsub{
+	padding:30px 24px 15px 34px;
+}
+.mini_loginpanel .formsub .label{
+	width:56px;
+	margin-left:-61px;
+	white-space:nowrap;
+	color: #666;
+    font-family: "microsoft yahei",SimHei,Arial;
+}
+.mini_loginpanel .formsub .intxt{
+	width:200px;
+	height:20px;
+	vertical-align:middle;
+}
+.mini_loginpanel .formsub li{
+	padding-left:61px;
+	padding-bottom:15px;
+}
+.mini_loginpanel .btn_login {
+    background:url(../Nest/img/sprite_btns.png) no-repeat scroll 0 -902px transparent;
+    height:35px;
+    width:125px;
+}
+.mini_loginpanel .btn_login:hover {
+    background-position: 0 -941px;
+}
+.mini_loginpanel .bottom{
+	display:none;
+	background-color:#ebebeb;
+	padding:10px 34px;
+	color:#626164;
+}
+.mini_loginpanel .bottom h2{font-weight:normal; margin-bottom:5px;}
+.mini_loginpanel .bottom .inblock{
+	width:72px;
+	height:27px;
+	background:url(../Nest/img/logtype.gif) no-repeat;
+}
+.mini_loginpanel .item2 .inblock{
+	width:68px;
+}
+.mini_loginpanel .item2 .inblock{
+	background-position:left -32px;
+	width:52px;
+}
+.mini_loginpanel .item3 .inblock{
+	background-position:left -64px;
+}
+.mini_loginpanel .bottom li{
+	float:left;
+	padding:5px 25px 5px 0;
+}
+.mini_loginpanel .Validform_checktip{
+	margin-left:0;
+	font-style:normal;
+}
+.mini_loginpanel .loading{
+	background:url(../Nest/img/onLoad.gif) left center no-repeat;	
+	border:0;	
+	padding:2px 0 2px 20px;
+	text-indent:0;
+	border-radius:0;
+	*padding-top:3px;
+}
+.validCode{
+	vertical-align:middle;	
+}
+.otherlogin{margin:15px 39px 0 0;zoom:1; padding-top:10px;border-top:1px solid #e9e9e9;}
+.otherlogin dt{ color:#666; font-size:12px; font-weight:normal; line-height:30px;}
+.otherlogin dd{float:left;height:30px;}
+.otherlogin .SDOLogon{margin-left:10px;}
+.otherlogin dd a{background:url(../Nest/img/otherLoginIcon.gif) no-repeat scroll 3px -1119px;float:left;height:22px;line-height:30px;margin:4px 0;min-width:20px;overflow:hidden;padding:0 16px 0 23px;}
+.otherlogin dd a:hover{color:#E52142;text-decoration:underline;}
+.otherlogin dd a{color:#666;text-decoration:none;white-space:nowrap;}
+.otherlogin dd.AliPayLogon a{background-position:3px -2681px;}
+.otherlogin dd.TencentQQLogon a{background-position:3px -2542px;}
+.otherlogin dd.NeteaseLogon a{background-position:3px -2428px;}
+.otherlogin dd.SinaLogon a{background-position:3px -2477px;}
+.otherlogin dd.CmpayLogon a{background-position:1px -2576px;padding-right:5px;}
+.otherlogin dd.SDOLogon a{background-position:3px -2609px;}
+.otherlogin dd.TenPayLogon a{background-position:3px -1088px;}
+.otherlogin dd.ThunderLogon a{background-position:3px -2508px;padding-right:0;}
+.otherlogin dd.PingAnLogon a{background-position:3px -2646px;}
+.otherlogin dd.ZhongZhiLogon a{background-position:3px -2122px;}
+.otherlogin dd.KJT a{ padding-left:30px;background-position:3px -2714px;}
+.mini_loginpanel .otherlogin{ margin:-10px 24px 20px;}
+/*
+.btn_grayB{
+	color:#999;
+	background-position:0 -62px;
+	font-size:14px;
+	height:30px;
+	vertical-align:middle;
+}
+.btn_grayB span{
+	background-position:right -62px;
+	height:30px;
+	line-height:30px;
+	
+}
+.btn_grayB:hover{
+	color:#626164 !important;
+	background-position:0 -96px;
+}
+.btn_grayB:hover span{
+	background-position:right -96px;
+}
+.passwordStrength{
+	height:19px;
+	overflow:hidden;
+}
+.combinelogin{
+	width:227px;
+	height:421px;
+	background:url(../Nest/img/register_bg2.png) center bottom no-repeat;
+}
+.combinelogin h2{
+	padding-top:25px;
+	font-size:16px;
+	color:#ac0807;	
+	font-family:"microsoft yahei",arial;
+	font-weight:normal;
+}
+.combinelogin .mini_loginpanel{
+	position:static;
+	background:none;
+	width:100%;
+	padding:0;
+}
+.combinelogin .mini_loginpanel .bottom{
+	padding:15px 0;
+	background:none;
+}
+.combinelogin .mini_loginpanel .bottom .inblock{
+	background-image:url(../Nest/img/logtypeB.png);
+	
+}
+.reged_login_btn{
+	background:url(../Nest/img/btn_combinelog.png) no-repeat;
+	height:31px;
+	width:195px;	
+}
+.reged_login_btn:hover{
+	background-position: left -31px;	
+}
+.Validform_checktip{
+	font-style:normal;
+	margin-left:0;
+	display:none;
+	color:#ac0807;
+	height:19px;
+}
+.Validform_wrong{
+	padding-left:0;
+	background:none;
+	display:inline;
+}
+
+.Validform_right{
+	color:#71B83D;
+}
+.passwordStrength .pwdsp{	
+	height:19px;
+	width:280px;
+	background:url(../Nest/img/passwordStrength_bg.png);	
+	display:none;
+}
+.pwdPower_l1 .pwdsp{
+	background-position:left 2px;
+	display:inline-block;
+	color:#ac0807;
+}
+.pwdPower_l2 .pwdsp{
+	background-position:left -24px;
+	display:inline-block;
+	color:#fe6d02;
+}
+.pwdPower_l3 .pwdsp{
+	background-position:left -50px;
+	display:inline-block;
+	color:#698800;
+}
+.pwdPower_l4 .pwdsp{
+	background-position:left -76px;
+	display:inline-block;
+	color:#18c102;
+}
+.validCode{
+	vertical-align:middle;	
+}
+*/
+
+/* ===== mini register ===== */
+.mini_regpanel{
+	width:400px;
+	position:absolute;
+	right:500px;
+	top:150px;
+	border:1px solid #D8D8D8;
+	box-shadow:0 0 5px #000;
+	font-family: "microsoft yahei",SimHei,Arial;
+}
+.mini_regpanel .closebox{position:absolute;right:-16px;top:-17px;width:33px;height:34px;display:block;background:url(../Nest/img/closebox.png) no-repeat ;overflow:hidden;text-indent:-9999px;}
+.mini_regpanel  h1{
+	height:45px;
+	padding:0;
+	line-height:45px;
+	font-size:20px;
+	font-weight:normal;
+	/*color:#fff;
+	text-indent:35px;
+	background:url(../Nest/img/logtit.gif) repeat-x;*/
+	color:#666;
+	margin:10px 27px;
+	border-bottom:2px solid #C40000;
+}
+.mini_regpanel .inner{
+	border:1px solid #fff;
+	border-top:none;
+	background-color:#fff;
+	padding:1px;
+}
+.mini_regpanel .formsub{
+	padding:30px 20px 15px 20px;
+}
+.mini_regpanel .formsub .label{
+	width:96px;
+	margin-left:-101px;
+	white-space:nowrap;
+	color: #666;
+    font-family: "microsoft yahei",SimHei,Arial;
+}
+.mini_regpanel .formsub .intxt{
+	width:200px;
+	height:20px;
+	vertical-align:middle;
+}
+.mini_regpanel .formsub li{
+	padding-left:101px;
+	padding-bottom:15px;
+}
+.mini_regpanel .btn_reg {
+    background:url(../Nest/img/sprite_btns.png) no-repeat scroll 0 -1139px transparent;
+    height:35px;
+    width:125px;
+}
+.mini_regpanel .btn_reg:hover {
+    background-position: 0 -1178px;
+}
+.mini_regpanel .bottom{
+	display:none;
+	background-color:#ebebeb;
+	padding:10px 34px;
+	color:#626164;
+}
+.mini_regpanel .bottom h2{font-weight:normal; margin-bottom:5px;}
+.mini_regpanel .bottom .inblock{
+	width:72px;
+	height:27px;
+	background:url(../Nest/img/logtype.gif) no-repeat;
+}
+.mini_regpanel .item2 .inblock{
+	width:68px;
+}
+.mini_regpanel .item2 .inblock{
+	background-position:left -32px;
+	width:52px;
+}
+.mini_regpanel .item3 .inblock{
+	background-position:left -64px;
+}
+.mini_regpanel .bottom li{
+	float:left;
+	padding:5px 25px 5px 0;
+}
+.mini_regpanel .Validform_checktip{
+	margin-left:0;
+	font-style:normal;
+}
+.mini_regpanel .loading{
+	background:url(../Nest/img/onLoad.gif) left center no-repeat;	
+	border:0;	
+	padding:2px 0 2px 20px;
+	text-indent:0;
+	border-radius:0;
+	*padding-top:3px;
+}
+.mini_regpanel .ckbox {
+	height:16px;
+	padding:0;
+	margin-right:5px;
+	vertical-align:middle;
+}
+.mini_regpanel label.strengthA,
+.mini_regpanel label.strengthB,
+.mini_regpanel label.strengthC,
+.mini_regpanel label.strengthD {*margin-top:10px; _margin-left:3px; width:208px; display:inline-block; text-align:left; color:Red; zoom:1;}
+.mini_regpanel label.strengthA b { width:208px; height:8px; background:url(../nest/img/pwd_strength_mini.png) no-repeat 0px 0px; margin:0px; overflow:hidden;}
+.mini_regpanel label.strengthB b { width:208px; height:8px; background:url(../nest/img/pwd_strength_mini.png) no-repeat 0px -9px; margin:0px; overflow:hidden;}
+.mini_regpanel label.strengthC b { width:208px; height:8px; background:url(../nest/img/pwd_strength_mini.png) no-repeat 0px -18px; margin:0px; overflow:hidden;}
+.mini_regpanel label.strengthD b { width:208px; height:8px; background:url(../nest/img/pwd_strength_mini.png) no-repeat 0px -27px; margin:0px; overflow:hidden;}
+.mini_regpanel li .tip { display:block; padding-top:5px; padding-right:35px; line-height:20px;}

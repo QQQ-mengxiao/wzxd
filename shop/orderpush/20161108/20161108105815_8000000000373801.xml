@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9ICD9L-26RRH9ICD9L-0EK3ZGXLY17" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9ICD9L-26RRH9ICD9L-0EK3ZGXLY17</guid>
+			<appType>1</appType>
+			<appTime>20161108105815</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000373801</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>169.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>189.11</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>13837135231</buyerRegNo>
+			<buyerName>董道文</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410927197411229019</buyerIdNumber>
+			<consignee>董道文</consignee>
+			<consigneeTelephone>13837135231</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	管城回族区 郑州经开区 经北四路 146号 郑州国际陆港园区</consigneeAddress>
+			<note></note>
+			<ordersum>189.11</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20161104112619</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.255</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.055</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016110421001004510263817947</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>董道文</purchasername>
+			<buyerregno>13837135231</buyerregno>
+			<purchasertelephone>13837135231</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500115</itemNo>
+			<itemName>It's skin伊思蜗牛精华眼霜礼盒套装（跨境直邮） 2瓶/盒（40ml+15ml)</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>140</unit>
+			<qty>1</qty>
+			<price>169.00</price>
+			<totalPrice>169</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>2瓶/盒（40ml+15ml)</specifications>
+			<ciqbarcode>3304990012</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500115</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>140</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

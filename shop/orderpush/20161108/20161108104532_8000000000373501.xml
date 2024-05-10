@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9ICD19-26RRH9ICD19-0EK3Z4BGFSJ" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9ICD19-26RRH9ICD19-0EK3Z4BGFSJ</guid>
+			<appType>1</appType>
+			<appTime>20161108104532</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000373501</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>83.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>93.47</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>lanzhu2222</buyerRegNo>
+			<buyerName>张鑫</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410122198309285216</buyerIdNumber>
+			<consignee>张鑫</consignee>
+			<consigneeTelephone>13938552305</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	管城回族区 河南郑州经开区第18大街与经北四路交叉口东北角陆港园区</consigneeAddress>
+			<note></note>
+			<ordersum>93.47</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20161104102220</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.3</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.1</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016110421001004020276754735</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>张鑫</purchasername>
+			<buyerregno>lanzhu2222</buyerregno>
+			<purchasertelephone>13938552305</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500701</itemNo>
+			<itemName>Cloud 9九朵云马油膏（跨境直邮） 70g/瓶</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>142</unit>
+			<qty>1</qty>
+			<price>88.00</price>
+			<totalPrice>88</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>70g/瓶</specifications>
+			<ciqbarcode>3304990011</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500701</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>142</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

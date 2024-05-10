@@ -1,0 +1,13 @@
+#ignore 
+log/*
+data/config/*
+data/log/*
+data/session/*
+data/upload/*
+data/cache/*
+ohmysql/*
+php-console-master/*
+
+#other
+.idea/*
+

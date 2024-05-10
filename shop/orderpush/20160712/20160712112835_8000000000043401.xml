@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I5ABT-31JNJDLIANIY-0EGGT069ZST" version="1.0" sendCode="" reciptCode="">
+	<Order>		<OrderHead>
+			<guid>26RRH9I5ABT-31JNJDLIANIY-0EGGT069ZST</guid>
+			<appType>1</appType>
+			<appTime>20160712112835</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000043401</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州国际陆港</ebcName>
+			<goodsValue>98.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>98.00</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>zih347</buyerRegNo>
+			<buyerName>gfrdgde</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>999956169485615614</buyerIdNumber>
+			<consignee>gfrdgde</consignee>
+			<consigneeTelephone>46845814864</consigneeTelephone>
+			<consigneeAddress>陆港自提	上门自提免运费（只限一般贸易商品）	郑州市经开区经北四路146号国际陆港园区 陆港</consigneeAddress>
+			<note></note>
+			<ordersum>98.00</ordersum>
+			<senderusername>BIAN COMPANY</senderusername>
+			<senderuseraddress>No.408,3-4,Heungin-dong,Jung-gu,Seoul,Korea</senderuseraddress>
+			<senderusertelephone>00821053098688</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>1234567</trepcodeinsp>
+			<submittime>20160523100629</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>123456</weight>
+			<weightunit>kg</weightunit>
+			<netweight>12345</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016052321001004880276728011</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>gfrdgde</purchasername>
+			<buyerregno>zih347</buyerregno>
+			<purchasertelephone>46845814864</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>P4810030009524</itemNo>
+			<itemName>郑欧班列商品  白俄进口熊穴“Medvezhy log”伏特加白酒 700mL 单瓶</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>1234</unit>
+			<qty>1</qty>
+			<price>98.00</price>
+			<totalPrice>98</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>200ml</specifications>
+			<flag>N</flag>
+			<goodidinsp>8765432</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>345678765</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode></copCode>
+		<copName></copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId></dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

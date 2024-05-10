@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I886X-2NVFAK5RBWDI-0EI7UQER8XA" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9I886X-2NVFAK5RBWDI-0EI7UQER8XA</guid>
+			<appType>1</appType>
+			<appTime>20160907155341</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000180601</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>270.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>270.00</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>13682185303</buyerRegNo>
+			<buyerName>王美丽</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>411424198401143720</buyerIdNumber>
+			<consignee>王美丽</consignee>
+			<consigneeTelephone>13682185303</consigneeTelephone>
+			<consigneeAddress>浙江	嘉兴市	南湖区 凌工塘路1994号同济环境研究院</consigneeAddress>
+			<note></note>
+			<ordersum>270.00</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20160907091036</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016090721001004650253527375</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>王美丽</purchasername>
+			<buyerregno>13682185303</buyerregno>
+			<purchasertelephone>13682185303</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>5000378999703</itemNo>
+			<itemName>【保税区发货】英国原装进口婴幼儿(1-2岁)牛栏奶粉Cow&amp;Gate三段 900g 2罐</itemName>
+			<itemDescribe>包税，包邮 ，保税区发货2-3个工作日到货</itemDescribe>
+			<barCode></barCode>
+			<unit></unit>
+			<qty>1</qty>
+			<price>270.00</price>
+			<totalPrice>270</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications></specifications>
+			<ciqbarcode></ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp></goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit></weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp></unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

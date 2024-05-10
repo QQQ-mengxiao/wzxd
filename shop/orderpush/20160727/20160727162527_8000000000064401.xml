@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I5QJ5-5P9XOUJA8N0B-0EGXKK7OOZW" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9I5QJ5-5P9XOUJA8N0B-0EGXKK7OOZW</guid>
+			<appType>1</appType>
+			<appTime>20160727162527</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000064401</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>110.78</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>110.78</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>mixu</buyerRegNo>
+			<buyerName>米旭</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>412929197906018218</buyerIdNumber>
+			<consignee>米旭</consignee>
+			<consigneeTelephone>13838233212</consigneeTelephone>
+			<consigneeAddress>河南省陆港自提	上门自提免运费（只限一般贸易商品）	郑州市经开区经北四路146号国际陆港园区 河南省郑州市管城回族区经北四路与四港联动大道交叉口西北角国际陆港物流园区O2O体验馆</consigneeAddress>
+			<note></note>
+			<ordersum>110.78</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20160711144739</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.929</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.64</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016071121001004290212933074</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>米旭</purchasername>
+			<buyerregno>mixu</buyerregno>
+			<purchasertelephone>13838233212</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000502501</itemNo>
+			<itemName>(郑欧商城跨境直邮)可莱丝 乐肤凯尔系列 补水面膜2盒装[10贴/盒] 2盒/组（10贴/盒）</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>021</unit>
+			<qty>1</qty>
+			<price>99.00</price>
+			<totalPrice>99</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>2盒/组（10贴/盒）</specifications>
+			<ciqbarcode>3304990010</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000502501</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>021</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

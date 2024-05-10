@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9I6A7H-413QEZQCQ4IQ-0EGNV78GXIZ" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9I6A7H-413QEZQCQ4IQ-0EGNV78GXIZ</guid>
+			<appType>1</appType>
+			<appTime>20160718211045</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000089901</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>149.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>149.00</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>小小草</buyerRegNo>
+			<buyerName>江波</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410103194907292419</buyerIdNumber>
+			<consignee>江波</consignee>
+			<consigneeTelephone>13838568909</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	金水区 郑州市郑东新区天赋路与九如路交叉口往东100米路北绿地老街一期19号楼一单元二楼西户</consigneeAddress>
+			<note></note>
+			<ordersum>149.00</ordersum>
+			<senderusername>BIAN COMPANY</senderusername>
+			<senderuseraddress>No.408,3-4,Heungin-dong,Jung-gu,Seoul,Korea</senderuseraddress>
+			<senderusertelephone>00821053098688</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20160718171655</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016071821001004870297168253</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>江波</purchasername>
+			<buyerregno>小小草</buyerregno>
+			<purchasertelephone>13838568909</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo></itemNo>
+			<itemName>德国Salus铁元绿铁 500ml 补血神器</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit></unit>
+			<qty>1</qty>
+			<price>149.00</price>
+			<totalPrice>149</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications></specifications>
+			<flag>N</flag>
+			<goodidinsp></goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit></weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp></unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

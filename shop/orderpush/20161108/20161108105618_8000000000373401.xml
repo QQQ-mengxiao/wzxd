@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENT311Message xmlns="http://www.chinaport.gov.cn/ENT" guid="26RRH9ICCYH-26RRH9ICCYH-0EK3ZEZWZLD" version="1.0" sendCode="sendCode" reciptCode="reciptCode">
+	<Order>		<OrderHead>
+			<guid>26RRH9ICCYH-26RRH9ICCYH-0EK3ZEZWZLD</guid>
+			<appType>1</appType>
+			<appTime>20161108105618</appTime>
+			<appStatus>2</appStatus>
+			<orderType>I</orderType>
+			<orderNo>8000000000373401</orderNo>
+			<ebpCode>4101965092</ebpCode>
+			<ebpName>郑州国际陆港开发建设有限公司</ebpName>
+			<ebcCode>4101917335</ebcCode>
+			<ebcName>郑州郑欧贸易有限公司</ebcName>
+			<goodsValue>69.00</goodsValue>
+			<freight>0</freight>
+			<discount>0</discount>
+			<taxTotal>0</taxTotal>
+			<acturalPaid>77.21</acturalPaid>
+			<currency>142</currency>
+			<buyerRegNo>15249670210</buyerRegNo>
+			<buyerName>刘丽娟</buyerName>
+			<buyerIdType>1</buyerIdType>
+			<buyerIdNumber>410426199112293067</buyerIdNumber>
+			<consignee>刘丽娟</consignee>
+			<consigneeTelephone>15249670210</consigneeTelephone>
+			<consigneeAddress>河南	郑州市	管城回族区 航海东路十八大街交叉口经北四路郑州国际陆港开发建设有限公司</consigneeAddress>
+			<note></note>
+			<ordersum>77.21</ordersum>
+			<senderusername>The Kyong International</senderusername>
+			<senderuseraddress>Oryu-dong,Seo-gu,INcheon,Korea</senderuseraddress>
+			<senderusertelephone>0082-032-568-5600</senderusertelephone>
+			<billmode>1</billmode>
+			<wasterornot>N</wasterornot>
+			<botanyornot>N</botanyornot>
+			<cbecodeinsp>4100606874</cbecodeinsp>
+			<ecpcodeinsp></ecpcodeinsp>
+			<trepcodeinsp>4100910023</trepcodeinsp>
+			<submittime>20161104083951</submittime>
+			<tradecompany>410</tradecompany>
+			<totalfeeunit>156</totalfeeunit>
+			<countofgoodstype>1</countofgoodstype>
+			<weight>0.15</weight>
+			<weightunit>kg</weightunit>
+			<netweight>0.15</netweight>
+			<netweightunit>kg</netweightunit>
+			<platformurl></platformurl>
+			<collusercountryinsp>410</collusercountryinsp>
+			<sendusercountryinsp>156</sendusercountryinsp>
+			<paynumber>2016110421001004870278173087</paynumber>
+			<payenterprisecode></payenterprisecode>
+			<payenterprisename></payenterprisename>	
+			<otherpaymenttype></otherpaymenttype>
+			<lmsno></lmsno>
+			<manualno></manualno>
+			<purchasername>刘丽娟</purchasername>
+			<buyerregno>15249670210</buyerregno>
+			<purchasertelephone>15249670210</purchasertelephone>
+		</OrderHead><OrderList>
+			<gnum>1</gnum>
+			<itemNo>815000500310</itemNo>
+			<itemName>【多买多减】innisfree悦诗风吟森林男士绿色洗面奶（跨境直邮） 150ml/支</itemName>
+			<itemDescribe></itemDescribe>
+			<barCode></barCode>
+			<unit>012</unit>
+			<qty>1</qty>
+			<price>69.00</price>
+			<totalPrice>69</totalPrice>
+			<currency>142</currency>
+			<country>133</country>
+			<note></note>
+			<goodname></goodname>
+			<specifications>150ml/支</specifications>
+			<ciqbarcode>3401300000</ciqbarcode>
+			<flag>N</flag>
+			<goodidinsp>4100606874815000500310</goodidinsp>
+			<goodnameenglish></goodnameenglish>
+			<weightunit>kg</weightunit>
+			<packcategoryinsp>4M</packcategoryinsp>
+			<wasterornotinsp></wasterornotinsp>
+			<remarksinsp></remarksinsp>
+			<coininsp>156</coininsp>
+			<unitinsp>012</unitinsp>
+			<srccountryinsp>410</srccountryinsp>
+			<gno></gno>
+		</OrderList>	</Order>
+	<BaseTransfer>
+		<copCode>4101917335</copCode>
+		<copName>郑州郑欧贸易有限公司</copName>
+		<dxpMode>DXP</dxpMode>
+		<dxpId>DXPENT0000011502</dxpId>
+		<note></note>
+	</BaseTransfer>
+</ENT311Message>

@@ -1,0 +1,261 @@
+9215427007
+
+zm67grt
+
+zhiyk@zih718.com
+
+32111982312
+
+物资小店测试云打印机1
+
+USER：zhiyk@zih718.com
+UKEY：m9sg3ybD7UF6CwAm
+
+SELECT * FROM `718shop_yundayin` WHERE `address_id` = '3' AND FIND_IN_SET('3',`order_type`) limit 1
+Array
+(
+    [0] => Array
+        (
+            [dayin_id] => 3
+            [dayin_name] => 物资小店测试云打印机2
+            [dayin_sn] => 92154270011
+            [dayin_key] => 7zm67grt
+            [mobile] => 
+            [state] => 1
+            [dayin_user] => zhiyk@zih718.com
+            [ukey] => 32111982312111111
+            [address_id] => 2
+            [order_type] => 0,1,4
+            [note] => 
+        )
+
+)
+
+  <div class="area-list">
+              <label><input type="checkbox" value="0" name="order_type[]" />无活动</label>
+              <label><input type="checkbox" value="1" name="order_type[]" />阶梯价</label>
+             <label><input type="checkbox" value="2" name="order_type[]" />团购价</label>
+             <label><input type="checkbox" value="3" name="order_type[]" />新人专享价</label>
+             <label><input type="checkbox" value="4" name="order_type[]" />限时秒杀价</label>
+             <label><input type="checkbox" value="5" name="order_type[]" />即购即送</label>
+            </div>
+            <span></span>
+          <!-- <p class="hint"></p> -->
+        </dd>
+      </dl>
+      <dl>
+      <dt><i class="required">*</i>自提地址:</dt>
+      <dd>
+        <select id="address_id" name="address_id" class="w400">
+                         
+              <option value="2" >河南 郑州市 管城回族区航海东路第十大街</option>
+            
+                 
+              <option value="3" >河南 郑州市 管城回族区经北四路经开第十七大街</option>
+            
+                 
+              <option value="4" >河南 郑州市 管城回族区莲湖路东三环</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Array
+(
+    [order_id] => 51518
+    [order_sn] => 6000000005173501
+    [pay_sn] => 6000000005173501
+    [store_id] => 4
+    [store_name] => 物资小店
+    [buyer_id] => 28967
+    [buyer_name] => 凉琴
+    [buyer_email] => 
+    [add_time] => 1611197652
+    [payment_code] => online
+    [payment_time] => 0
+    [finnshed_time] => 0
+    [goods_amount] => 50.00
+    [order_amount] => 50.00
+    [rcb_amount] => 0.00
+    [pd_amount] => 0.00
+    [shipping_fee] => 0.00
+    [evaluation_state] => 0
+    [order_state] => 0
+    [refund_state] => 0
+    [lock_state] => 0
+    [delete_state] => 0
+    [refund_amount] => 0.00
+    [delay_time] => 0
+    [order_from] => 2
+    [shipping_code] => 
+    [is_mode] => 0
+    [store_tax_total] => 0.00
+    [crossborder_pay_state] => 0
+    [card_amount] => 0.00
+    [initalRequest] => 
+    [certNo] => 
+    [signValue] => 
+    [initData] => 
+    [dayin_state] => 2
+    [order_type] => 4
+    [state_desc] => 订单已取消
+    [payment_name] => 在线付款
+    [extend_order_common] => Array
+        (
+            [order_id] => 51518
+            [store_id] => 4
+            [shipping_time] => 0
+            [shipping_express_id] => 0
+            [evaluation_time] => 0
+            [evalseller_state] => 0
+            [evalseller_time] => 0
+            [order_message] => 
+            [order_pointscount] => 0
+            [voucher_price] => 0
+            [voucher_code] => Array
+                (
+                )
+
+            [deliver_explain] => 
+            [daddress_id] => 0
+            [reciver_name] => 凉琴
+            [reciver_info] => Array
+                (
+                    [phone] => null
+                    [mob_phone] => null
+                    [tel_phone] => 
+                    [address] => 河南 郑州市 管城回族区 物资集团
+                    [area] => 河南 郑州市 管城回族区
+                    [street] => 物资集团
+                    [id_card] => 0
+                )
+
+            [reciver_province_id] => 0
+            [reciver_city_id] => 240
+            [invoice_info] => Array
+                (
+                )
+
+            [promotion_info] => 
+            [dlyo_pickup_code] => 
+            [is_ziti] => 0
+            [waybill_info] => 
+            [reciver_ziti_id] => 2
+            [ladder_discount] => 0
+        )
+
+    [extend_member] => Array
+        (
+            [member_id] => 28967
+            [member_name] => 凉琴
+            [member_truename] => 
+            [member_avatar] => 
+            [member_sex] => 
+            [member_birthday] => 
+            [member_passwd] => $2y$10$y0trTKFdLAa5IJZIzboVWOpB8Lg5MiTH4K7KIlwSN3Dfor1uyDneS
+            [member_paypwd] => 
+            [member_email] => 
+            [member_email_bind] => 0
+            [member_mobile] => 
+            [member_mobile_bind] => 0
+            [member_qq] => 
+            [member_ww] => 
+            [member_login_num] => 1
+            [member_time] => 1610759544
+            [member_login_time] => 1610759544
+            [member_old_login_time] => 1610759544
+            [member_login_ip] => 172.16.0.253
+            [member_old_login_ip] => 172.16.0.253
+            [member_qqopenid] => 
+            [member_qqinfo] => 
+            [member_sinaopenid] => 
+            [member_sinainfo] => 
+            [weixin_unionid] => 
+            [weixin_info] => 
+            [member_points] => 100
+            [available_predeposit] => 0.00
+            [freeze_predeposit] => 0.00
+            [available_rc_balance] => 0.00
+            [freeze_rc_balance] => 0.00
+            [inform_allow] => 1
+            [is_buy] => 1
+            [is_allowtalk] => 1
+            [member_state] => 1
+            [member_snsvisitnum] => 0
+            [member_areaid] => 
+            [member_cityid] => 
+            [member_provinceid] => 
+            [member_areainfo] => 
+            [member_privacy] => 
+            [member_quicklink] => 
+            [member_exppoints] => 0
+            [inviter_id] => 
+            [member_wxopenid] => o1OXp5erXX0X6XH1h5IlV6y2lLsY
+            [client_id] => 
+            [member_qqunionid] => 
+            [continue_days] => 0
+            [ID_card] => 
+            [ID_card_photo] => 
+            [ID_card_sidephoto] => 
+            [member_verify] => 10
+            [ziti_id] => 2
+            [is_xinren] => 2
+        )
+
+    [extend_order_goods] => Array
+        (
+            [0] => Array
+                (
+                    [rec_id] => 98320
+                    [order_id] => 51518
+                    [goods_id] => 12327
+                    [goods_name] => 测试秒杀01
+                    [goods_price] => 50.00
+                    [goods_num] => 1
+                    [goods_image] => 4_06641963893824836.jpg
+                    [goods_pay_price] => 50.00
+                    [store_id] => 4
+                    [buyer_id] => 28967
+                    [goods_type] => 3
+                    [promotions_id] => 707
+                    [commis_rate] => 0
+                    [gc_id] => 1702
+                    [kuajing_info] => a:1:{s:4:"note";s:15:"非跨境商品";}
+                    [points_send] => 0
+                    [goods_commission] => 
+                )
+
+        )
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                          </select>
